@@ -9,5 +9,7 @@ public class GitsampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitsampleApplication.class, args);
 	}
-
+//	public static void main(String[] args) {
+//		SpringApplication.run(GitsampleApplication.class, args);
+//	}
 }
